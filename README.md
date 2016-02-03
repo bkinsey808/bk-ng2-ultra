@@ -1,12 +1,17 @@
 # bk-ng2-ultra
 
-[![Build Status](https://travis-ci.org/bkinsey808/bk-ng2-ultra.svg?branch=master)](https://travis-ci.org/bkalexinsey808/bk-ng2-ultra)
+Massive credit and thanks goes to Alex Podskrebyshev and his project [https://github.com/alexpods/angular2-universal-starter](https://github.com/alexpods/angular2-universal-starter)
+
+This project derives heavily from that project but adds some additional features including the holy grail layout,
+a different component naming system, and a different directory structure for project files.
+
+<!--[![Build Status](https://travis-ci.org/bkinsey808/bk-ng2-ultra.svg?branch=master)](https://travis-ci.org/bkinsey808/bk-ng2-ultra)
 [![Dependency Status](https://david-dm.org/bkinsey808/bk-ng2-ultra.svg)](https://david-dm.org/bkinsey808/bk-ng2-ultra)
 [![devDependency Status](https://david-dm.org/bkinsey808/bk-ng2-ultra/dev-status.svg)](https://david-dm.org/bkinsey808/bk-ng2-ultra#info=devDependencies)
 [![Issue Stats](http://issuestats.com/github/bkinsey808/bk-ng2-ultra/badge/pr?style=flat-square)](http://issuestats.com/github/bkinsey808/bk-ng2-ultra)
 [![Issue Stats](http://issuestats.com/github/bkinsey808/bk-ng2-ultra/badge/issue?style=flat-square)](http://issuestats.com/github/bkinsey808/bk-ng2-ultra)
 [![Join the chat at https://gitter.im/bkinsey808/bk-ng2-ultra](https://badges.gitter.im/bkinsey808/bk-ng2-ultra.svg)](https://gitter.im/bkinsey808/bk-ng2-ultra?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+-->
 
 #What we've got here
 
@@ -163,6 +168,7 @@ npm run clean:logs
 The MIT License (MIT)
 
 Copyright (c) 2016 Ben Kinsey
+
 Copyright (c) 2016 Aleksey Podskrebyshev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
