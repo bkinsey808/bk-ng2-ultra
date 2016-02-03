@@ -1,0 +1,5 @@
+@media (min-width: 500px) {
+  aside {
+    flex: 0 0 6em;
+  }
+}

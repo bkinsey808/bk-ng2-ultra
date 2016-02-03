@@ -1,0 +1,33 @@
+app {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+header, footer {
+ flex: none;
+}
+
+app-body {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  padding: 10px 0 10px 0;
+}
+
+main {
+  margin-top: 10px;
+}
+
+header, footer, nav, aside {
+  padding: 1em;
+  border-radius: 3px;
+  background: rgba(147, 128, 108, 0.1);
+  border: 1px solid black;
+}
+
+@media (min-width: 500px) {
+  app-body {
+    flex-direction: row;
+  }
+}

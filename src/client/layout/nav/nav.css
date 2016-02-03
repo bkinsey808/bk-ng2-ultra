@@ -1,0 +1,5 @@
+@media (min-width: 500px) {
+  nav {
+    flex: 0 0 6em;
+  }
+}

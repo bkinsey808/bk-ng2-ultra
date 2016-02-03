@@ -1,0 +1,13 @@
+@media (min-width: 500px) {
+  main {
+    flex: 1;
+    padding: 0 15px;
+    margin: 0;
+  }
+}
+
+nav, aside {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
